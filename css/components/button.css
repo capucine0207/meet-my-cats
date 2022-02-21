@@ -1,0 +1,23 @@
+
+
+.btn-blue {
+	width: 150px;
+	line-height: 50px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: rgb(38, 106, 170); 
+	padding: 10px, 25px auto 10px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif; bold;
+	display: inline, block; 
+
+
+}
+
+.btn-blue:hover {
+	background-color: #466060;
+}
+
